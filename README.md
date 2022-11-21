@@ -2,3 +2,5 @@
 子仓库
 
 new appended
+
+ update from component
