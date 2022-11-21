@@ -8,3 +8,5 @@ new appended
  update from component
 
 new appended subtree
+
+ update from component subtree
